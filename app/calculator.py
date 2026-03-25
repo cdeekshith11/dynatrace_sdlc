@@ -6,5 +6,4 @@ def divide(a: float, b: float) -> float:
         raise ValueError("b must not be 0")
     return a / b
 
-def subtract(a: float, b: float) -> float:
-    return a - b
+
